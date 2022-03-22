@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple ADT Examle", "Simple ADT Examle.vcxproj", "{99905D97-B163-4C25-818E-8DFFE1AD6751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Debug|x64.ActiveCfg = Debug|x64
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Debug|x64.Build.0 = Debug|x64
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Debug|x86.ActiveCfg = Debug|Win32
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Debug|x86.Build.0 = Debug|Win32
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Release|x64.ActiveCfg = Release|x64
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Release|x64.Build.0 = Release|x64
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Release|x86.ActiveCfg = Release|Win32
+		{99905D97-B163-4C25-818E-8DFFE1AD6751}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEAD7E46-3CED-409B-AAEA-E9B8267EC616}
+	EndGlobalSection
+EndGlobal

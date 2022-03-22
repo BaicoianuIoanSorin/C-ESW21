@@ -1,0 +1,4 @@
+﻿  production.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" exited with code 1120.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\SEM4\ESW\Code\Session 07\GoogleTest and FFF\Debug\ProductionCode.exe : fatal error LNK1120: 1 unresolved externals

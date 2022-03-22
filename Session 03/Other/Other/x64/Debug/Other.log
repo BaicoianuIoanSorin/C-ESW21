@@ -1,0 +1,4 @@
+﻿  main.c
+D:\SEM4\ESW\Code\Session 03\Other\Other\main.c(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+D:\SEM4\ESW\Code\Session 03\Other\Other\main.c(7,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  Other.vcxproj -> D:\SEM4\ESW\Code\Session 03\Other\x64\Debug\Other.exe
